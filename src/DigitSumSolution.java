@@ -1,10 +1,8 @@
-import DigitSum;
-
 public class DigitSumSolution {
 
     public static void main(String[] args) {
-        System.out.println(digitSum(29107));
-        System.out.println(digitSum(-456));
+        System.out.println(digitMin2(29107));
+        System.out.println(digitMin2(-456));
     }
 /*
     public static int digitSum(int num) {
